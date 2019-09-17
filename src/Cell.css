@@ -1,0 +1,20 @@
+.cell {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: 5px solid #000;
+}
+
+.cell .black {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.cell .red {
+  height: 100%;
+  width: 100%;
+  background-color: red;
+  border-radius: 50%;
+}
